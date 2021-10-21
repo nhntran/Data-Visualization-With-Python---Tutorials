@@ -1,5 +1,12 @@
-# Matplotlib_pyplot-tutorial
+# Python visualization tools - Tutorials
 
-Basic tutorials on the matplotlib.pyplot module:
-- General application of matplotlib.pyplot module (graph and general visualization)
-- Using matplotlib.pyplot module for image
+The most common Python visualization tools are Matplotlib and Seaborn. Besides, you can try to make simple plots using Pandas.
+Basic tutorials includes:
+1. Basic and advanced techniques with Matplotlib for displaying graphs, charts, colors, etc. ("Plotting with matplotlib - All you need to know.ipynb")
+2. Using Matplotlib for image visualization ("Using matplotlib for displaying image.ipynb")
+3. Visualization with Seaborn ("Plotting with seaborn  - All you need to know .ipynb")
+4. Visualization with Pandas ("Plotting with pandas - All you need to know .ipynb") 
+
+The documents are still in the progress of completion. So please bear with me when I try to make them perfect.
+
+Thank you and enjoy!
