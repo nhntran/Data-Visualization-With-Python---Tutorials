@@ -1,7 +1,7 @@
 # Python visualization tools - Tutorials
 
 The most common Python visualization tools are Matplotlib and Seaborn. Besides, you can try to make simple plots using Pandas.
-Basic tutorials includes:
+This tutorial repository includes:
 1. Basic and advanced techniques with Matplotlib for displaying graphs, charts, colors, etc. ("Plotting with matplotlib - All you need to know.ipynb")
 2. Using Matplotlib for image visualization ("Using matplotlib for displaying image.ipynb")
 3. Visualization with Seaborn ("Plotting with seaborn  - All you need to know .ipynb")
