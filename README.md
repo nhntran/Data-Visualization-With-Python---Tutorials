@@ -7,6 +7,8 @@ This tutorial repository includes:
 3. Visualization with Seaborn ("Plotting with seaborn  - All you need to know .ipynb")
 4. Visualization with Pandas ("Plotting with pandas - All you need to know .ipynb") 
 
+Data used for these tutorials is the "train.cvs" filr from Titanic dataset on Kaggle. You can download it at https://www.kaggle.com/c/titanic/data?select=train.csv
+
 The documents are still in the progress of completion. So please bear with me when I try to make them perfect.
 
 Thank you and enjoy!
